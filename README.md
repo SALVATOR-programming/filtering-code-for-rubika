@@ -1,11 +1,14 @@
 to install:
 
-    git clone https://github.com/SALVATOR-programming/filtering-code-for-rubika
-    
-    cd filtering-code-for-rubika
-    
-    python mixer.py
-
+```bash
+git clone https://github.com/SALVATOR-programming/filtering-code-for-rubika
+```
+```bash   
+cd filtering-code-for-rubika
+```
+```bash
+python mixer.py
+```
 
 
 needs:
