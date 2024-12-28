@@ -1,4 +1,4 @@
-to install:
+### to install:
 
 ```bash
 git clone https://github.com/SALVATOR-programming/filtering-code-for-rubika
@@ -11,7 +11,7 @@ python mixer.py
 ```
 
 
-needs:
+### needs:
 
 colorama
 
